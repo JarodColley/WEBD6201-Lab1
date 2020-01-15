@@ -7,7 +7,7 @@
     function Start()
     {
     let projects = document.getElementById("products");
-    projects.firstChild.lastChild = "Projects";
+    projects.firstChild.lastChild.textContent = " Projects";
     console.log(projects);
     }
     window.addEventListener("load", Start);
