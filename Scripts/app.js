@@ -1,3 +1,6 @@
+// Jarod Colley 
+// 100704994
+// Jan 21st 2020
 "user strict";
 
 // IIFE - immediatly invoked function expression
