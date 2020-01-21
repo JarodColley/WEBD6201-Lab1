@@ -7,6 +7,7 @@
 // means -> anonymous self-executing function
 (function(){
 
+    // function that is preformed when the window is loaded
     function Start()
     {
     let projects = document.getElementById("Products");
